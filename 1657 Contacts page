@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact - ZoneIn</title>
+    <link rel="stylesheet" type="text/css" href="Real.css">
+</head>
+<body>
+    <header id="main-header">
+        <div class="container">
+            <h1>ZoneIn - Innovation at its finest</h1>
+        </div>
+    </header>
+
+    <nav id="navbar">
+        <div class="container">
+            <ul>
+                <li><a href="RealHome.html">Home</a></li>
+                <li><a href="RealAbout.html">About</a></li>
+                <li><a href="RealRegistration.html">Registration</a></li>
+                <li><a href="RealContact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="showcase">
+        <div class="container">
+            <h1> Contact Us!</h1>
+            <h2>Check our our social medias to keep up to date with our progress.</h2>
+        </div>
+    </section>
+
+    <div class="container">
+        <section id="main">
+            <p><a href="">Instagram: ZoneIn</a></p>
+            <p><a href="">Facebook: ZoneIn</a></p>
+            <p><a href="">Twitter: ZoneIn</a></p>
+            <p><a href="">Snapchat: ZoneIn</a></p>
