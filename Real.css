@@ -71,7 +71,7 @@ body{
 #sidebar{
     float:right;
     width:50%;
-    max-height: 300px;
+    max-height: 100%;
     background-color: none;
 }
 /*
