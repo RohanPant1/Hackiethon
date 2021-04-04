@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - ZoneIn</title>
+    <link rel="stylesheet" type="text/css" href="Real.css">
+</head>
+<body>
+    <header id="main-header">
+        <div class="container">
+            <h1>ZoneIn - Innovation at its finest</h1>
+        </div>
+    </header>
+
+    <nav id="navbar">
+        <div class="container">
+            <ul>
+                <li><a href="RealHome.html">Home</a></li>
+                <li><a href="RealAbout.html">About</a></li>
+                <li><a href="RealRegistration.html">Registration</a></li>
+                <li><a href="RealContact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="showcase">
+        <div class="container">
+            <h1>About ZoneIn</h1>
+            <h2>Compete. Motivate. Deliver.</h2>
+        </div>
+    </section>
+
+    <div class="container">
+        <section id="main">
+            <h1>What exactly is ZoneIn?</h1>
+            <hr/>
+            <p>There is nothing worse than studying for hours on end and achieving no results. Except for having to do all the study online. This is why we came up with ZoneIn, so that you, the student, doens't have to worry about your studies even online.</p>
+            <p>We are a rising start up in a world ruled by technology and the rise of online service. However, what sets us apart from the rest is our well-calculated vision and mission. Motivation for those who need it. We are consistently working on upgrading our application based on user preferences and customer polls, to tailor our site to your specific needs</p>
+            <p>Furthermore, our pricing system allows everyone to have a fair chance at getting things done with no additional expenses required unless users opt-in to certain preferences. Our support staff are working 24/7 to deliver on enact your valued queries and concerns, so always feel free to send feedback.</p>
+            <p>We strive to make ZoneIn an easy to use website which has all the required features you need. There is no need to be a tech guru in order to use this website. ZoneIn has been specifically made so that even a 5 year old or someone who has never touched a computer before can be satisfied with ZoneIn.</p>
+            <p>There is no reason to not join the millions of people who are using ZoneIn today!</p>
+            <hr/>
+        </section>
+        <aside id="sidebar">
+            <img src="https://st.depositphotos.com/1007168/2894/i/600/depositphotos_28949163-stock-photo-smiling-pencil-holding-an-a.jpg" />
+        </aside>
+    </div>
+
+        <a class="fix-me button" href="RealRegistration.html"><h2>Sign Up Now!</h2></a>
