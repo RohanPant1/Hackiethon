@@ -261,3 +261,7 @@ body{
 .my-list li:nth-child(even){
     background: grey;
 }
+
+logo {
+    width: 30%;
+}
